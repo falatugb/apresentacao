@@ -18,7 +18,7 @@
   Em atual desenvolvimento tenho um projeto utilizando SQL e Microsoft SQL Server baseado em uma oficina de pequeno porte, desenvolvendo a análise de requisitos e modelos conceituais,
   lógicos e físicos do banco de dados.
 	  
-  Acompanhe o projeto aqui: [Projeto Oficina SQL]()
+  Acompanhe o projeto aqui: [Projeto Oficina SQL](https://github.com/falatugb/Projeto_Oficina)
     </p>
   <p> 
   • 📊 Em conjunto dos estudos de banco de dados, também utilizo a ferramente Power BI para a criação de Dashboards, visualização e estudos dos dados armazenados no banco.
