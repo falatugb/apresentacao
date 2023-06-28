@@ -51,7 +51,7 @@ Durante a rotina de estudos, me dediquei a conhecer e aprender mais sobre as seg
 	
 <br>
 <br>
-	<small><i>Em desenvolvimento...<i/></small>
+	• <a href='https://www.linkedin.com/pulse/sql-ordem-de-execu%25C3%25A7%25C3%25A3o-x-sintaxe-gabriel-oliveira'>SQL - Ordem de execução x Ordem de sintaxe</a> 
 </p>
 
 Contatos:
