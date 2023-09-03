@@ -27,7 +27,7 @@
 	  Projetos: <small><i>Em desenvolvimento...</i></small>
    </p>
   <p>
-    • 🎓 Cursando: Análise e Desenvolvimento de Sistemas - 6º Período
+    • 🎓 Formação: Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá - Setembro 2023
   </p>
 	  <p>
     • 👨🏾‍💻 Trabalho: Estagiário em Análise de Negócios / Requisitos - Tasken
