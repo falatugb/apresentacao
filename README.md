@@ -30,7 +30,7 @@
     • 🎓 Formação: Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá - Setembro 2023
   </p>
 	  <p>
-    • 👨🏾‍💻 Trabalho: Estagiário em Análise de Negócios / Requisitos - Tasken
+    • 👨🏾‍💻 Trabalho: Análista de Negócios / Requisitos I - Tasken
 	  </p>	  
 </h3>
 <p>
