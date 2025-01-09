@@ -28,6 +28,7 @@
    </p>
   <p>
     • 🎓 Formação: Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá - Setembro 2023
+    • 🎓 Pós Graduação - Engenharia de Software - UNOPAR - Previsão de conclusão Novembro 2025	  
   </p>
 	  <p>
     • 👨🏾‍💻 Trabalho: Análista de Negócios / Requisitos I - Tasken
