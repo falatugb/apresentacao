@@ -44,8 +44,7 @@ Sobre meus conhecimentos:
 Durante a rotina de estudos, me dediquei a conhecer e aprender mais sobre as seguintes ferramentas:
 	</p>
 <p>
-<img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white> <img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white> <img src=https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black> <img src=https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white> <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white> <img src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white>
-
+EM CONSTRUÇÃO
 </p>
 <p>
 📰 Artigos desenvolvidos para estudo
